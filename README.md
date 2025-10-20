@@ -97,21 +97,27 @@ Additional preprocessing steps:
   data = yf.download("AAPL", start="2015-01-01", end="2024-12-31")
   ```
   
-  ---
+---
   
 ## 🧰 Installation & Setup
 
 # Clone the repository
-git clone https://github.com/<your-username>/stock-price-hybrid.git
+```bash
+git clone https://github.com/Vismitha-K/Stock-Prediction-Model.git
 cd stock-price-hybrid
+```
 
 # Create and activate virtual environment
+```bash
 python -m venv venv
 venv\Scripts\activate   # For Windows
 source venv/bin/activate  # For macOS/Linux
+```
 
 # Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ---
 
