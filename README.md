@@ -101,20 +101,20 @@ Additional preprocessing steps:
   
 ## 🧰 Installation & Setup
 
-# Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/Vismitha-K/Stock-Prediction-Model.git
 cd stock-price-hybrid
 ```
 
-# Create and activate virtual environment
+### Create and activate virtual environment
 ```bash
 python -m venv venv
 venv\Scripts\activate   # For Windows
 source venv/bin/activate  # For macOS/Linux
 ```
 
-# Install dependencies
+### Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
@@ -123,16 +123,16 @@ pip install -r requirements.txt
 
 ## ▶️ Usage
 
-# Run Streamlit App
+### Run Streamlit App
 ```bash
 streamlit run web_stock_predictor_hybrid.py
 ```
 
-# In the app:
+### In the app:
 Enter a stock ticker symbol (e.g., AAPL, TSLA, RELIANCE.NS)
 Choose number of epochs for training (if retraining is required)
 
-# View:
+### View:
 Historical price trend
 Predicted future price trend
 Table of recent and predicted values
