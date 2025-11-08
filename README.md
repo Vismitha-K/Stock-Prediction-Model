@@ -38,7 +38,6 @@ Stock-Price-Prediction-YFinance-LSTM-RNN/
 ├── app.py                # Streamlit web app
 ├── engine.py             # CLI-based runner
 ├── requirements.txt      # Dependencies
-├── LICENSE
 └── README.md
 
 ````
@@ -124,3 +123,4 @@ http://localhost:8501
 * Inclusion of technical indicators (RSI, MACD) as input features.
 * Comparative evaluation with ARIMA and Transformer architectures.
 * Streamlit cloud deployment for public demonstration.
+
