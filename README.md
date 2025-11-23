@@ -48,7 +48,7 @@ Stock-Price-Prediction-YFinance-LSTM-RNN/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/Stock-Price-Prediction-YFinance-LSTM-RNN.git
+git clone https://github.com/Vismitha-K/Stock-Price-Predictiongit
 cd Stock-Price-Prediction-YFinance-LSTM-RNN
 ````
 
@@ -123,4 +123,5 @@ http://localhost:8501
 * Inclusion of technical indicators (RSI, MACD) as input features.
 * Comparative evaluation with ARIMA and Transformer architectures.
 * Streamlit cloud deployment for public demonstration.
+
 
